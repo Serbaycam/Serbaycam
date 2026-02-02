@@ -1,16 +1,111 @@
-<h1 align="center">Hi, I'm Serbay</h1>
-<h3 align="center">A passionate backend developer from Turkey</h3>
+<!--
+Profile README for github.com/Serbaycam
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serbaycam&label=Profile%20views&color=0e75b6&style=flat" alt="serbaycam" /> </p>
+How to use:
+1) Open the repo: https://github.com/Serbaycam/Serbaycam
+2) Replace README.md content with this file
+3) Commit to main branch ✅
+-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/serbaycam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="serbaycam" height="30" width="40" /></a>
+<h1 align="center">Merhaba, ben Serbay ÇAM 👋</h1>
+
+<p align="center">
+  <b>Backend developer</b> • Türkiye 🇹🇷 • <code>.NET / C#</code>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/Serbaycam?tab=repositories">Repos</a> •
+  <a href="https://github.com/Serbaycam/AuthServer-NTier">AuthServer-NTier</a> •
+  <a href="https://github.com/Serbaycam/AuthServer-Onion">AuthServer-Onion</a> •
+  <a href="https://github.com/Serbaycam/PLMS">PLMS</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serbaycam&show_icons=true&locale=en&layout=compact" alt="serbaycam" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serbaycam&show_icons=true&locale=en" alt="serbaycam" /></p>
+## 🧠 Kısaca
+
+- 🔐 JWT tabanlı authentication/authorization örnekleri (Auth Server)
+- 🧱 Katmanlı mimari: **N‑Tier** & **Onion/Clean** yaklaşımları
+- 🧪 API geliştirme, refactor, “temiz ve okunur kod” takıntısı
+- 📍 Fatsa / Ordu
+
+<details>
+  <summary><b>🇬🇧 English</b></summary>
+
+- 🔐 JWT-based authentication/authorization samples (Auth Server)
+- 🧱 Layered architecture: **N‑Tier** & **Onion/Clean**
+- 🧪 API development, refactoring, clean & readable code
+- 📍 Fatsa / Ordu, Turkey
+
+</details>
+
+---
+
+## 🚀 Öne çıkan projeler
+
+### 🔑 AuthServer-NTier (C# / .NET)
+
+JWT Auth Server + örnek API’ler (korumalı & public) — katmanlı yapıda, pratik bir referans.
+
+- Repo: **Serbaycam/AuthServer-NTier**
+- Öne çıkanlar: `AuthServer.API`, `App.API`, `AppNoAuth.API`, `Core / Data / Service / SharedLibrary`
+
+---
+
+### 🧅 AuthServer-Onion (C# / .NET)
+
+Identity odaklı, katmanlara ayrılmış (Domain / Application / Infrastructure / Persistence) örnek yapı + API projeleri.
+
+- Repo: **Serbaycam/AuthServer-Onion**
+- Yapı: `AuthServer.Identity.*` + `AuthServer.Catalog.API`
+
+---
+
+### 🌐 PLMS (JS/CSS)
+
+Web ağırlıklı proje (Core / Repository / Service / Web klasör yapısı).
+
+- Repo: **Serbaycam/PLMS**
+
+---
+
+## 🧰 Tech & Tools
+
+<p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Serbaycam&show_icons=true&hide_title=true" />
+</p>
+
+<p align="center">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serbaycam&layout=compact" />
+</p>
+
+<p align="center">
+  <img alt="Streak" src="https://streak-stats.demolab.com/?user=Serbaycam" />
+</p>
+
+---
+
+## 🤝 İletişim
+
+- En kolay yol: ilgili repo üzerinden **Issue** açmak  
+
+<sub><i>“I may be slow to respond.” — ama mutlaka okuyorum 🙂</i></sub>
