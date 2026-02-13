@@ -15,9 +15,8 @@ How to use:
 
 <p align="center">
   <a href="https://github.com/Serbaycam?tab=repositories">Repos</a> •
-  <a href="https://github.com/Serbaycam/AuthServer-NTier">AuthServer-NTier</a> •
   <a href="https://github.com/Serbaycam/AuthServer-Onion">AuthServer-Onion</a> •
-  <a href="https://github.com/Serbaycam/PLMS">PLMS</a>
+  <a href="https://github.com/Serbaycam/PLMS-NTier">PLMS-NTier</a>
 </p>
 
 ---
@@ -43,15 +42,6 @@ How to use:
 
 ## 🚀 Öne çıkan projeler
 
-### 🔑 AuthServer-NTier (C# / .NET)
-
-JWT Auth Server + örnek API’ler (korumalı & public) — katmanlı yapıda, pratik bir referans.
-
-- Repo: **Serbaycam/AuthServer-NTier**
-- Öne çıkanlar: `AuthServer.API`, `App.API`, `AppNoAuth.API`, `Core / Data / Service / SharedLibrary`
-
----
-
 ### 🧅 AuthServer-Onion (C# / .NET)
 
 Identity odaklı, katmanlara ayrılmış (Domain / Application / Infrastructure / Persistence) örnek yapı + API projeleri.
@@ -61,11 +51,11 @@ Identity odaklı, katmanlara ayrılmış (Domain / Application / Infrastructure 
 
 ---
 
-### 🌐 PLMS (JS/CSS)
+### 🌐 PLMS-NTier (C# / .NET / JS / CSS)
 
 Web ağırlıklı proje (Core / Repository / Service / Web klasör yapısı).
 
-- Repo: **Serbaycam/PLMS**
+- Repo: **Serbaycam/PLMS-NTier**
 
 ---
 
@@ -79,10 +69,8 @@ Web ağırlıklı proje (Core / Repository / Service / Web klasör yapısı).
   <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img alt="Windows" src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
