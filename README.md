@@ -79,14 +79,6 @@ Web ağırlıklı proje (Core / Repository / Service / Web klasör yapısı).
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Serbaycam&show_icons=true&hide_title=true" />
-</p>
-
-<p align="center">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serbaycam&layout=compact" />
-</p>
-
-<p align="center">
   <img alt="Streak" src="https://streak-stats.demolab.com/?user=Serbaycam" />
 </p>
 
