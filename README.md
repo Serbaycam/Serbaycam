@@ -1,91 +1,81 @@
-<!--
-Profile README for github.com/Serbaycam
-
-How to use:
-1) Open the repo: https://github.com/Serbaycam/Serbaycam
-2) Replace README.md content with this file
-3) Commit to main branch ✅
--->
-
-<h1 align="center">Merhaba, ben Serbay ÇAM 👋</h1>
+<h1 align="center">Serbay ÇAM</h1>
 
 <p align="center">
-  <b>Backend developer</b> • Türkiye 🇹🇷 • <code>.NET / C#</code>
+  <strong>Backend Developer · C# / .NET</strong><br />
+  Kimlik yönetimi, API geliştirme ve sürdürülebilir yazılım mimarisi<br />
+  Fatsa, Ordu · Türkiye
 </p>
 
 <p align="center">
-  <a href="https://github.com/Serbaycam?tab=repositories">Repos</a> •
-  <a href="https://github.com/Serbaycam/AuthServer-Onion">AuthServer-Onion</a> •
-  <a href="https://github.com/Serbaycam/PLMS-NTier">PLMS-NTier</a>
+  <a href="https://github.com/Serbaycam?tab=repositories">Projeler</a> ·
+  <a href="https://github.com/Serbaycam/AuthServer-Onion">AuthServer-Onion</a> ·
+  <a href="https://github.com/Serbaycam/AuthServer-Onion/issues">İletişim</a>
 </p>
 
 ---
 
-## 🧠 Kısaca
+## Hakkımda
 
-- 🔐 JWT tabanlı authentication/authorization örnekleri (Auth Server)
-- 🧱 Katmanlı mimari: **N‑Tier** & **Onion/Clean** yaklaşımları
-- 🧪 API geliştirme, refactor, “temiz ve okunur kod” takıntısı
-- 📍 Fatsa / Ordu
+C# ve .NET ekosisteminde backend geliştirmeye odaklanıyorum. Kimlik doğrulama, yetkilendirme ve API tasarımı üzerine çalışıyor; katmanlı mimari yaklaşımlarıyla sorumlulukları açık, okunabilir ve bakımı kolay uygulamalar geliştiriyorum.
+
+- **Kimlik ve erişim yönetimi:** JWT, kullanıcı ve rol yönetimi, izin denetimi ve oturum yaşam döngüsü.
+- **Yazılım mimarisi:** N-Tier ve Onion/Clean yaklaşımları, katmanlar arasında sorumluluk ayrımı.
+- **Kod kalitesi:** Refactoring, test edilebilirlik ve geliştirme sürecinde otomatik doğrulama.
+
+## Teknolojiler ve araçlar
+
+| Alan | Teknolojiler |
+| --- | --- |
+| Backend | C#, .NET, ASP.NET Core, ASP.NET Core Identity |
+| Veri erişimi | Entity Framework Core, PostgreSQL |
+| Uygulama tasarımı | Katmanlı mimari, MediatR, komut ve sorgu ayrımı |
+| Web arayüzü | React, TypeScript, JavaScript, Vite, Bootstrap |
+| Geliştirme ve dağıtım | Git, Docker, Docker Compose, GitHub Actions, Linux |
+| Diğer araçlar | Postman, Figma |
+
+## Öne çıkan proje
+
+### [AuthServer-Onion](https://github.com/Serbaycam/AuthServer-Onion)
+
+**Kullanıcı, rol, izin ve oturum yönetimi için .NET tabanlı kimlik API'si ve React yönetim paneli.**
+
+Domain, Application, Infrastructure, Persistence ve API katmanlarıyla düzenlenen proje, backend kimlik yönetimini bir web yönetim arayüzüyle bir araya getiriyor.
+
+- **Kimlik doğrulama:** ASP.NET Core Identity ve JWT tabanlı erişim.
+- **Oturum yönetimi:** Refresh token yenileme, aktif oturumların görüntülenmesi ve iptali.
+- **Yönetim paneli:** Kullanıcı, rol ve izin yönetimi için React ve TypeScript arayüzü.
+- **Veri ve çalıştırma ortamı:** Entity Framework Core, PostgreSQL ve Docker Compose.
+- **Doğrulama:** Backend entegrasyon testleri, panel testleri ve GitHub Actions iş akışı.
+
+[Kaynak kod ve kurulum](https://github.com/Serbaycam/AuthServer-Onion#readme) · [Yönetim paneli dokümantasyonu](https://github.com/Serbaycam/AuthServer-Onion/blob/master/docs/ADMIN_PANEL.md)
+
+## Geliştirme yaklaşımım
+
+İş kurallarını anlaşılır biçimde ifade etmeyi, katmanların sorumluluklarını belirgin tutmayı ve değişiklikleri testlerle doğrulamayı önemsiyorum. Projelerimde mimari tercihleri ve kurulum adımlarını dokümante ederek kodun incelenmesini ve geliştirilmesini kolaylaştırmayı hedefliyorum.
+
+## İletişim
+
+Projelerle ilgili sorular, hata bildirimleri ve öneriler için ilgili deponun **Issues** bölümünden ulaşabilirsiniz.
+
+[AuthServer-Onion için issue açın](https://github.com/Serbaycam/AuthServer-Onion/issues/new/choose) · [Tüm depoları inceleyin](https://github.com/Serbaycam?tab=repositories)
+
+Yanıt sürem değişebilir; mesajları fırsat buldukça değerlendiriyorum.
+
+---
 
 <details>
-  <summary><b>🇬🇧 English</b></summary>
+<summary><strong>English overview</strong></summary>
 
-- 🔐 JWT-based authentication/authorization samples (Auth Server)
-- 🧱 Layered architecture: **N‑Tier** & **Onion/Clean**
-- 🧪 API development, refactoring, clean & readable code
-- 📍 Fatsa / Ordu, Turkey
+### About me
+
+I'm Serbay ÇAM, a backend developer based in Fatsa, Ordu, Türkiye. I focus on C# and .NET, with an emphasis on authentication, authorization, API development, and maintainable application architecture.
+
+My work explores layered architectures, including N-Tier and Onion/Clean approaches, alongside refactoring, testing, and automated checks.
+
+### Featured project
+
+[**AuthServer-Onion**](https://github.com/Serbaycam/AuthServer-Onion) combines a .NET identity API with a React and TypeScript administration panel. It covers user, role, permission, and session management, using ASP.NET Core Identity, JWT, Entity Framework Core, and PostgreSQL. Docker Compose supports local setup, while GitHub Actions runs backend and frontend checks.
+
+For project questions, bug reports, or suggestions, please open an issue in the relevant repository. Response times may vary.
 
 </details>
-
----
-
-## 🚀 Öne çıkan projeler
-
-### 🧅 AuthServer-Onion (C# / .NET)
-
-Identity odaklı, katmanlara ayrılmış (Domain / Application / Infrastructure / Persistence) örnek yapı + API projeleri.
-
-- Repo: **Serbaycam/AuthServer-Onion**
-- Yapı: `AuthServer.Identity.*` + `AuthServer.Catalog.API`
-
----
-
-### 🌐 PLMS-NTier (C# / .NET / JS / CSS)
-
-Web ağırlıklı proje (Core / Repository / Service / Web klasör yapısı).
-
-- Repo: **Serbaycam/PLMS-NTier**
-
----
-
-## 🧰 Tech & Tools
-
-<p>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET%20Core-000000?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img alt="Streak" src="https://streak-stats.demolab.com/?user=Serbaycam" />
-</p>
-
----
-
-## 🤝 İletişim
-
-- En kolay yol: ilgili repo üzerinden **Issue** açmak  
-
-<sub><i>“I may be slow to respond.” — ama mutlaka okuyorum 🙂</i></sub>
